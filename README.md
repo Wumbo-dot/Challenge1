@@ -15,7 +15,7 @@ This is a file for the first challenge.
 * updated all images to contain "alt" tags 
 
 ## link to github
-(Urban Octo Telegram)(https://github.com/Wumbo-dot/Challenge1)
+(Challenge1)(https://github.com/Wumbo-dot/Challenge1)
 
 ## link to project
 (webpage view of Urban Octo Telegram)(https://wumbo-dot.github.io/Challenge1/#search-engine-optimization)
